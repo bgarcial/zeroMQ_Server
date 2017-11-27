@@ -1,0 +1,3 @@
+/home/bgarcial/CLionProjects/zeroMQ_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bgarcial/CLionProjects/zeroMQ_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bgarcial/CLionProjects/zeroMQ_Server/cmake-build-debug/CMakeFiles/zeroMQ_Server.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bgarcial/CLionProjects/zeroMQ_Server/main.cpp
+iostream
+-
+server.h
+/home/bgarcial/CLionProjects/zeroMQ_Server/server.h
+
+/home/bgarcial/CLionProjects/zeroMQ_Server/server.cpp
+server.h
+/home/bgarcial/CLionProjects/zeroMQ_Server/server.h
+iostream
+-
+zmq.hpp
+-
+unistd.h
+-
+
+/home/bgarcial/CLionProjects/zeroMQ_Server/server.h
+
